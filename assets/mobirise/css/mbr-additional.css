@@ -418,6 +418,9 @@ h6,
 #msg-box6-c P {
   color: #000000;
 }
+#msg-box6-c SPAN {
+  color: #ffffff;
+}
 #content2-8 P {
   font-size: 15px;
 }

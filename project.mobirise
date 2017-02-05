@@ -48,6 +48,9 @@
             },
             "P": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -101,7 +104,7 @@
             }
           },
           "title": "All About Kevin Urguelles",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Kevin Urguelles skills with photoshop started when he was 8. He got inspired by video games to do photoshop. His Interest for becoming a video game designer is his passion. One of his goals is to be a real good asset to the technology community. Because technology is&nbsp;</span><br>\"THE FUTURE\".",
+          "text": "<b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Kevin Urguelles skills with photoshop started when he was 8. He got inspired by video games to do photoshop. His Interest for becoming a video game designer is his passion. One of his goals is to be a real good asset to the technology community. Because technology is&nbsp;</span><br>\"THE FUTURE\".</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-4\" data-toolbar=\"-mbrBtnMove\">Read more</a>"
         },
         {
