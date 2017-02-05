@@ -415,8 +415,14 @@ h6,
 #msg-box6-c .lead p {
   color: #fff;
 }
+#msg-box6-c P {
+  color: #000000;
+}
 #content2-8 P {
   font-size: 15px;
+}
+#content7-4 P {
+  font-size: 17px;
 }
 #social-buttons2-x .mbr-section-title,
 #social-buttons2-x .btn-social {
