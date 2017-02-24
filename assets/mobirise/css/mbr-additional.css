@@ -936,6 +936,10 @@ h6,
   text-align: right;
   font-size: 24px;
 }
+#social-buttons4-2c .mbr-section-title,
+#social-buttons4-2c .btn-social {
+  color: #fff;
+}
 #ext_menu-1g .hide-buttons .nav-btn {
   display: none !important;
 }
