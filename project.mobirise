@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Kevin Urguelles",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -455,7 +455,7 @@
     },
     "Adobe Photoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop.html",
+        "title": "Kevin Urguelles",
         "meta_descr": "Web Site Builder Description",
         "order": 3
       },
@@ -1122,7 +1122,7 @@
     },
     "Adobe Audition.html": {
       "settings": {
-        "title": "Web Generator Title",
+        "title": "Kevin Urguelles",
         "meta_descr": "Web Generator Description",
         "order": 4
       },
@@ -1438,7 +1438,7 @@
     },
     "Adobe Premire.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Kevin Urguelles",
         "meta_descr": "Website Builder Description",
         "order": 5
       },
@@ -1755,7 +1755,7 @@
     },
     "Adobe Illistrator.html": {
       "settings": {
-        "title": "Site Creator Title",
+        "title": "Kevin Urguelles",
         "meta_descr": "Site Creator Description",
         "order": 6
       },
@@ -2048,7 +2048,7 @@
     },
     "introduction.html": {
       "settings": {
-        "title": "Web Page Builder Title",
+        "title": "Kevin Urguelles",
         "meta_descr": "Web Page Builder Description",
         "order": 1
       },
@@ -2114,7 +2114,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/zfKwc2AR4bk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/T04pzy6zoKY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -2127,56 +2127,6 @@
           "title": "",
           "text": "<p><b>Video Blog.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1k",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#353536",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Intro video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
