@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -409,7 +409,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cursive-writing-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-6-384x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3487,6 +3487,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-2h",
           "_params": {
             "imageSize": "49",
@@ -3529,12 +3534,7 @@
           },
           "title": "Dream Weaver",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "menu",
