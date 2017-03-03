@@ -1377,6 +1377,25 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box6-32 .mbr-section-title,
+#msg-box6-32 .lead p {
+  color: #fff;
+}
+#msg-box6-32 P {
+  color: #000000;
+}
+#msg-box6-32 SPAN {
+  color: #ffffff;
+}
+#msg-box6-32 H3 {
+  color: #ffffff;
+}
+#content2-33 P {
+  font-size: 15px;
+}
+#content7-34 P {
+  font-size: 17px;
+}
 #ext_menu-31 .hide-buttons .nav-btn {
   display: none !important;
 }
