@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -58,10 +58,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
