@@ -3429,6 +3429,9 @@
             },
             "SPAN": {
               "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
