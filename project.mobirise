@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -3249,61 +3249,62 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
         },
         {
-          "_inherit": "header2",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
             },
-            ".mbr-section-text": {
-              "color": "#565656"
+            ".btn": {
+              "font-size": "14px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-3k",
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-3q",
           "_params": {
             "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=cpqQqEnTdD4&t=6s",
+              "src": "https://www.youtube.com/watch?v=I5_10CwwHVU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
               "size": 250
             }
           },
-          "title": "Thousand million reasins",
+          "title": "May 31st Show Video",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Link to video</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=I5_10CwwHVU\" data-toolbar=\"-mbrBtnMove\">Link to video</a>"
         },
         {
           "_styles": {

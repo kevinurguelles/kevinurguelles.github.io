@@ -1310,11 +1310,12 @@ h6,
   font-size: 19px;
   font-family: 'Roboto Condensed', sans-serif;
 }
-#header6-3k .mbr-section-title {
-  color: #ffffff;
+#msg-box7-3q .mbr-section-title,
+#msg-box7-3q .lead p {
+  color: #fff;
 }
-#header6-3k .mbr-section-text {
-  color: #565656;
+#msg-box7-3q .btn {
+  font-size: 14px;
 }
 #header3-2s .mbr-section-title,
 #header3-2s .mbr-section-subtitle {
